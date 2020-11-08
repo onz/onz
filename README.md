@@ -1,6 +1,8 @@
 ### Hi ,I'm ONZ 👋
 
+
 - 🌱 I’m currently learning Go,C,Linux,Javascript,Python.
+
 
 <!--
 **onz/onz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
